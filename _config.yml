@@ -1,0 +1,4 @@
+# _config.yml
+# Prevent Jekyll from ignoring the .well-known directory
+include:
+  - ".well-known"
