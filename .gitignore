@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Tailwind CSS output (if applicable)
+*.css.map
+*.css
+
+# Build files (if you ever use a build system)
+dist/
+build/
+
+# Environment variables (if you use dotenv or similar)
+.env
